@@ -21,6 +21,10 @@ p {
   line-height: 160%;
   font-size: 18px;
 }
+p i {
+  color: inherit;
+  font-style: italic;
+}
 
 h1 {
   font-size: 48px;
